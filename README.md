@@ -3,7 +3,6 @@
 <p align="center">
  <a href="#Pré requisitos">Pré-requisitos</a> •
  <a href="#Questões do desafio">Questões</a> • 
- <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 <h4 align="center"> 
@@ -14,6 +13,7 @@
 Para executar os códigos desse projeto é necessário a instalação do Python em sua máquina, a versão mais recente (até a data em que este documento foi escrito) e que foi utilizada para o desenvolvimento e teste deste foi [Python 3.10.2](https://www.python.org/)
 
 ### Questões do desafio
+As questões propostas foram resolvidas utilizando a linguagem de programação Python.
 
 #### Questão 1
 ##### Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
@@ -53,4 +53,4 @@ Obs.: As quatro linhas de código que estão comentadas permitem o armazenamento
 Obs.2: Quando os pares são de caracteres únicos a lista 'anagramas' armazena o valor apenas uma vez. 
 
 ### Autora
-Thuanny Luiza, Estudante de Engenharia de Computação - UFG
+Thuanny Luiza, Estudante de Engenharia de Computação - UFG.
